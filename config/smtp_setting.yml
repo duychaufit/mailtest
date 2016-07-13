@@ -1,0 +1,6 @@
+user:
+  address:    'smtp.gmail.com'
+  port:        587
+  domain:     'example.com'
+  user_name:  'email@gmail.com'
+  password:   'password'
